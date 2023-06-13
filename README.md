@@ -14,8 +14,6 @@ Gesture recognition module is an interactive sensor that integrates 3D gesture r
 * Compatible with multiple programming platforms, such as: Jetson NANO, Raspberry Pi, Arduino, Micro:bit. 
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/dp/B08LKF3PJH?ref=myi_title_dp)
-
 [By on Yahboom website](https://category.yahboom.net/products/gesture)
 
 # Please Contact Us
